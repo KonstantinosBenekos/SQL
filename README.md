@@ -1,2 +1,2 @@
 # SQL
-Contains Project where SQL was used 
+Contains Projects where SQL was used 
